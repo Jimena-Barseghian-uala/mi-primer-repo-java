@@ -15,6 +15,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>mi-primer-servicio-aws-lambda</module>
+        <module>create-contact-service-aws-lambda</module>
     </modules>
 
     <properties>
